@@ -68,10 +68,10 @@
 			"path": "languages/de.json"
 		}
 	],
-	"readme": "https://github.com/johnnolan/wild-magic-surge-5e/blob/main/README.md",
-	"license": "https://github.com/johnnolan/wild-magic-surge-5e/blob/main/LICENSE",
-	"bugs": "https://github.com/johnnolan/wild-magic-surge-5e/issues/new/choose",
-	"changelog": "https://github.com/johnnolan/wild-magic-surge-5e/releases",
+	"readme": "https://github.com/diasyago/001_my_wild_magic_surge_5e_foundry/blob/main/README.md",
+	"license": "https://github.com/diasyago/001_my_wild_magic_surge_5e_foundry/blob/main/LICENSE",
+	"bugs": "https://github.com/diasyago/001_my_wild_magic_surge_5e_foundry/issues/new/choose",
+	"changelog": "https://github.com/diasyago/001_my_wild_magic_surge_5e_foundry/releases",
 	"socket": true,
 	"url": "This is auto replaced",
 	"manifest": "This is auto replaced",
